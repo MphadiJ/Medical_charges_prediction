@@ -36,6 +36,9 @@ R² Score: My model achieved an R
 
 Generalization: The gap between training and testing performance is minimal, indicating the model is robust and not "overfit" to the training data.
 
+baseline model :r2=0.82
+tuned model  : r2= 0.88 showing an improvement by ~6%
+
 Deployment: I built a Streamlit Web App to demonstrate how this model can be integrated into a real-world business workflow, allowing a user to get an instant prediction via a manual form or a bulk CSV upload.
 
 5. Why Should You Care? (The Value Add)
